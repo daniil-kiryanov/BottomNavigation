@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="contact_fragment">Контакты</string>
+    <string name="photo_fragment">Фото</string>
+    <string name="hello_third_fragment">Hello PHOTO fragment</string>
+    <string name="contacts">Contacts:</string>
+</resources>
